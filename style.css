@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-    color: #16d9e3;
+    color: #14afb6;
 }
 
 .start {
@@ -95,7 +95,7 @@ h1 {
 }
 
 .circle {
-    background: linear-gradient(90deg, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+    background: linear-gradient(90deg, #26dbe5 0%, #2eb5d7 47%, #35a4f3 100%);
     position: absolute;
     border-radius: 50%;
     cursor: pointer;
